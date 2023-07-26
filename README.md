@@ -18,7 +18,6 @@ The dashboard provides information such as:
 
 ![netflix](https://github.com/Ruchita019/Netflix-Analysis/assets/97290814/0a9696f3-221d-426b-9363-29ddea3ccbaa)
 
-< br />
 
 Thank you for visiting my profile. For more information about the project, you can refer to the repository.
 
