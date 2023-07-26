@@ -18,6 +18,13 @@ The dashboard provides information such as:
 
 ![netflix](https://github.com/Ruchita019/Netflix-Analysis/assets/97290814/0a9696f3-221d-426b-9363-29ddea3ccbaa)
 
+## What I learned from this project
+I am delighted to share the valuable lessons I've learned from this project:
 
-Thank you for visiting my profile. For more information about the project, you can refer to the repository.
+1. Learning how to import data from diverse sources.
+2. Acquiring skills to eliminate unnecessary rows and columns from the dataset.
+3. Understanding how to create different plots to effectively represent the data.
+4. Mastering the art of creating an appealing dashboard.
+
+Thank you kindly for taking the time to visit my profile. If you seek further information about the project, please feel free to refer to the repository.
 
